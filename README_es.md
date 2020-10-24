@@ -75,7 +75,7 @@ export const EmployeeScene: React.FC = () => {
 - Vamos arrancar y ver que se muestra el pod:
 
 ```bash
-npm start
+npm start 
 ```
 
 - Ahora toca montarnos la definicion de datos para la vista:
